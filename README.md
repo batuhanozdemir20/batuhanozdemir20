@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Merhaba! Ben Batuhan
 
-<!--
-**batuhanozdemir20/batuhanozdemir20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Android geliştiricisiyim. Yaklaşık 1 yıldır Android uygulamaları geliştiriyorum. Kotlin dili ile yazılmış uygulamalar üzerinde çalışıyorum. Uygulamalarımda sade, işlevsel ve kullanıcı odaklı tasarımlar oluşturmaya özen gösteriyorum.
 
-Here are some ideas to get you started:
+## 🚀 Kullandığım Teknolojiler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Kotlin ile Android uygulama geliştirme
+- 🗺️ Google Maps SDK
+- 🔥 Firebase (Firestore, Authentication)
+- 🎨 XML ile UI tasarımı
+- 🛠️ Android Studio, Git
+
+## 📱 Uygulamalarım
+
+| Uygulama | Açıklama |
+|---------|----------|
+| **GeoWake** | Konuma yaklaşıldığında alarm veren bir Android uygulaması. Otobüste veya trende uyuyakalma derdine son! |
+| **SimpleCalculator** | Temel işlemleri yapan basit bir hesap makinesi. |
+| **WallpaperLib** | Duvar kağıdı yönetimiyle ilgili bir yardımcı kütüphane. |
+
+## 🎯 Hedeflerim
+
+- Jetpack Compose'a geçiş yapmak
+- UI/UX tasarım konusunda kendimi geliştirmek
+- Yeni teknolojiler öğrenerek daha büyük projelerde yer almak
+- İleride kendi mobil oyunumu geliştirmek 🎮
+
+## 📫 Bana Ulaşın
+
+batuhanozdemir2010@gmail.com  
+LinkedIn ve diğer sosyal bağlantılarımı yakında ekleyeceğim!
+
+---
+
+🛠️ Bu profil zamanla güncellenecek. Takipte kalın!

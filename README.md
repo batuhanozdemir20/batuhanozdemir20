@@ -1,6 +1,6 @@
 # 👋 Merhaba! Ben Batuhan
 
-Junior Android geliştiricisiyim. Yaklaşık 1 yıldır Android uygulamaları geliştiriyorum. Kotlin dili ile yazılmış uygulamalar üzerinde çalışıyorum. Uygulamalarımda sade, işlevsel ve kullanıcı odaklı tasarımlar oluşturmaya özen gösteriyorum.
+Junior Android geliştiriciyim. Yaklaşık 1 yıldır Android uygulamaları geliştiriyorum. Kotlin dili ile yazılmış uygulamalar üzerinde çalışıyorum. Uygulamalarımda sade, işlevsel ve kullanıcı odaklı tasarımlar oluşturmaya özen gösteriyorum.
 
 ## 🚀 Kullandığım Teknolojiler
 

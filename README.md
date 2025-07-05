@@ -15,6 +15,7 @@ Junior Android geliştiriciyim. Yaklaşık 1 yıldır Android uygulamaları geli
 | Uygulama | Açıklama |
 |---------|----------|
 | **GeoWake** | Konuma yaklaşıldığında alarm veren bir Android uygulaması. Otobüste veya trende uyuyakalma derdine son! |
+| **Motiwa** | Günlük motivasyon bildirimleri gönderir. |
 | **SimpleCalculator** | Temel işlemleri yapan basit bir hesap makinesi. |
 | **WallpaperLib** | Duvar kağıdı yönetimiyle ilgili bir yardımcı kütüphane. |
 
@@ -23,12 +24,11 @@ Junior Android geliştiriciyim. Yaklaşık 1 yıldır Android uygulamaları geli
 - Jetpack Compose'a geçiş yapmak
 - UI/UX tasarım konusunda kendimi geliştirmek
 - Yeni teknolojiler öğrenerek daha büyük projelerde yer almak
-- İleride kendi mobil oyunumu geliştirmek 🎮
 
 ## 📫 Bana Ulaşın
 
 batuhanozdemir2010@gmail.com  
-LinkedIn ve diğer sosyal bağlantılarımı yakında ekleyeceğim!
+[LinkedIn](https://www.linkedin.com/in/batuhan-özdemir-07aab6333/)
 
 ---
 
